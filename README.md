@@ -3,6 +3,7 @@
 - 🌱 I am currently learning Vue.js so that I can have more knowledge on the front-end...
 - 📫 How to reach me :
   - contato@godoydev.com.br
+  - felip.godoy10@gmail.com
   
  You can find out a little more about me on my website: https://godoydev.com.br
 
