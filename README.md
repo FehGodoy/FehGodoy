@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FehGodoy Hello, My name is Felipe Godoy, but you can call me Godoy :), I am currently working as a Web Developer in a Digital Marketing agency, for over 2 years, but I have been in the WEB development area for about 3 years, I am recently graduated in Computer Science Bachelor.
+- 👋 Hi, I’m @FehGodoy Hello, My name is Felipe Godoy, but you can call me Godoy :), I am currently working as a Web Developer for over 3 years, but I have been in the WEB development area for about 4 years, I am graduated in Computer Science Bachelor.
 - 👀 I'm interested in video games, programming, football
 - 🌱 I am currently learning Vue.js so that I can have more knowledge on the front-end...
 - 📫 How to reach me :
