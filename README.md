@@ -8,7 +8,7 @@
   <div style="display: inline_block"><br>
   
   
-  <div align="left">
+  <div align="center">
   <img align="center" alt="Godoy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Godoy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Godoy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,10 +18,15 @@
   <img align="center" alt="Godoy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Godoy-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" alt="Godoy-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
-  </div>
-  <img align="right" alt="Fã Cristiano Ronaldo" height="150" width="200" style="border-radius:50px;" src="https://media0.giphy.com/media/xT9IgleHUy6OdIS5gs/giphy.gif?cid=ecf05e47wm8nhsyjv3guxpcje2posv6d63z3e70dqzvdy4m3&rid=giphy.gif&ct=g">
+  </div> 
   
 </div>
+
+<br>
+
+<div align="center">
+  <img align="center" alt="Fã Cristiano Ronaldo" height="150" width="200" style="border-radius:50px;margin:0 auto;display:flex" src="https://media0.giphy.com/media/xT9IgleHUy6OdIS5gs/giphy.gif?cid=ecf05e47wm8nhsyjv3guxpcje2posv6d63z3e70dqzvdy4m3&rid=giphy.gif&ct=g">
+  </div>
 
 ##
 
