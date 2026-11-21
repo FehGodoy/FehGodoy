@@ -1,45 +1,45 @@
-## Olá eu sou o Felipe Godoy, desenvolvedor front-end!
-<div align="center">
-  <a href="https://github.com/FehGodoy/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehgodoy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehgodoy&layout=compact&langs_count=7&theme=dark"/>
-   </a>
-</div>
-  <div style="display: inline_block"><br>
-  
-  
-  <div align="center">
-  <img align="center" alt="Godoy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Godoy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Godoy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Godoy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Godoy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Godoy-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"> 
-  <img align="center" alt="Godoy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-      <img align="center" alt="Godoy-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"> 
-  <img align="center" alt="Godoy-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-  <img align="center" alt="Godoy-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
-  </div> 
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:0F172A&height=180&section=header&text=Felipe%20Godoy&fontSize=42&fontColor=ffffff&desc=Senior%20Backend%20Engineer%20%C2%B7%20Tech%20Lead&descAlignY=72&animation=fadeIn" alt="Felipe Godoy" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=21759B&center=true&vCenter=true&width=520&lines=WordPress+%26+PHP+backend;Headless+WordPress+%2B+Next.js;REST+API+%26+WPGraphQL;Tech+Lead+%C2%B7+Code+review+%C2%B7+CI%2FCD" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipgodoyy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://godoydev.com.br/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Brazil-UTC--3-21759B?style=for-the-badge" alt="Brazil UTC-3" />
+</p>
 
+---
 
-##
+### 👋 About me
 
-<div align="center">   
-<!--   <a href="https://www.instagram.com/godoydev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:felip.godoy10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--   <a href="https://www.linkedin.com/in/felipgodoyy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
-    <a href="http://godoydev.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
- </div>
- 
+Senior Backend Engineer and Tech Lead with **7+ years** of experience in web development.
+I build WordPress, WooCommerce and **headless WordPress + Next.js** projects, and I lead a dev team at a digital agency.
 
-  
+- 🔧 **WordPress backend** — custom plugins, CPTs, ACF, REST API, WPGraphQL
+- ⚡ **Headless** — WordPress as CMS/API with a Next.js front end
+- ☁️ **Servers & performance** — AWS, Docker, Cloudflare, Redis
+- 🧭 **Team process** — code review, Git flow, staging and CI/CD with Bitbucket Pipelines
+- 🤖 **AI-assisted development** — Claude Code in my daily workflow
 
-<!---
-FehGodoy/FehGodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,js,ts,react,nextjs,graphql,docker,aws,cloudflare,redis,git,bitbucket&perline=7" alt="Tech stack" />
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FehGodoy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehGodoy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+> 💼 Most of my professional work lives in private client repositories (agency work). The public repos here are personal projects and experiments.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:21759B&height=100&section=footer" alt="" />
+</p>
